@@ -17,10 +17,10 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 ## Your Breakdown Here
 ticket 1: Design Database
-    - Create ID table that records custom ids of agents by facilities.
+- Create ID table that records custom ids of agents by facilities.
 
 ticket 2: Build prototype of project
-    - Create `setCustomId` function with agent id and facility id as parameters.
+- Create `setCustomId` function with agent id and facility id as parameters.
 
 ticket 3: Modify the functions according to customer's requirements
-    - Modify `generateReport` function to use the custom id.
+- Modify `generateReport` function to use the custom id.
